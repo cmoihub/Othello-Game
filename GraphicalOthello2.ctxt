@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GraphicalOthello2()
+comment1.params=event
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ print()
+comment6.params=s
+comment6.target=void\ displayStatus(int)
+comment7.params=
+comment7.target=void\ main()
+numComments=8
